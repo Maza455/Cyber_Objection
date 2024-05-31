@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "lib": ["es2020"],
+    "allowJs": true,
+    "noEmit": true,
+    "strict": true,
+    "module": "Node16",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node16",
+    "strictNullChecks": false
+  }
+}
